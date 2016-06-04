@@ -9,7 +9,7 @@
 * @description This contain javascript 
 */ 
 
-var content = [
+var write = [
     "Abhinav Sharda",
     "I was born in India on may 07,1997. I was born and raised in middle class family.our family has great affection with animals so we are always ready help any needy animals. I persuade all my studies in CBSE .having agreat intrest in computers made me to decide to came canada for my higher qualification in the technology field. I hope to get a good job in this field.",
     "Projects",
@@ -33,4 +33,8 @@ var content = [
     keys[7] = document.getElementById('projects3');
     keys[8] = document.getElementById('about3');
     
+    for (var i = 0; i < keys.length; i++) {
+        
+        if (keys[i]){
+            keys[i].textContent = write[i];}}
 })();
