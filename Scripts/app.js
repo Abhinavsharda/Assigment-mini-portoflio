@@ -2,7 +2,7 @@
 * FileName: app.js
 *
 * @author Abhinav sharda
-* @date June 2, 2016
+* @date June 3, 2016
 *
 * StudentID: 300868625
 * website: Assigment 1
@@ -14,11 +14,11 @@ var write = [
     "I was born in India on may 07,1997. I was born and raised in middle class family.our family has great affection with animals so we are always ready help any needy animals. I persuade all my studies in CBSE .having agreat intrest in computers made me to decide to came canada for my higher qualification in the technology field. I hope to get a good job in this field.",
     "Projects",
      "First project - composition of lead battery",
-    "",
+    "I have done this project in my 9 th grade. i was specaly granted for this project so that proper precatauion will be taken in car .It was a veery interesting project ",
     "Second Project - Composition of gujarat sand",
-    "",
+    "one can find can find this project to be boring but infact it is a very intresting project to do. as we know that there is used to be a great ocean above the gujrat and now there just sand.son  one can find great diversity in its sand ",
     "Third Project - Finiacing the needy people ",
-    ""
+    "we carried out this project in our 12th grade . iI was the leader our our group and we hane collect the fund for the needy chlidren among our country. "
     ];
  
 (function(){
