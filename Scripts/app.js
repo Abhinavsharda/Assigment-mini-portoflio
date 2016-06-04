@@ -18,7 +18,7 @@ var write = [
     "Second Project - Composition of gujarat sand",
     "one can find can find this project to be boring but infact it is a very intresting project to do. as we know that there is used to be a great ocean above the gujrat and now there just sand.son  one can find great diversity in its sand ",
     "Third Project - Finiacing the needy people ",
-    "we carried out this project in our 12th grade . iI was the leader our our group and we hane collect the fund for the needy chlidren among our country. "
+    "we carried out this  project in our 12th grade . iI was the leader our our group and we hane collect the fund for the needy chlidren among our country. "
     ];
  
 (function(){
